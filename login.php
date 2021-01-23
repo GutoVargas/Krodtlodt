@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Vah Açaí - Login</title>
+        <title>Krodtlott - Login</title>
         <link href="css/krodtlott.css" rel="stylesheet">
         <script src="js/krodtloot.js"></script>
         
